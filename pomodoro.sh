@@ -145,4 +145,3 @@ done
 print_time " DONE"
 sleep 2
 cleanup
-great all looks good comment it properly and remove unnecessary bloat
